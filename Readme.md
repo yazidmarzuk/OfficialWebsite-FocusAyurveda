@@ -2,10 +2,11 @@
 
 
  
-![Stars](https://img.shields.io/github/stars/yazidmarzuk/portfolio_2.0)<br>
+![Stars](https://img.shields.io/github/stars/yazidmarzuk/medico_ayurveda?style=plastic)<br>
+![size](https://img.shields.io/github/repo-size/yazidmarzuk/medico_ayurveda)<br>
 ![Status](https://img.shields.io/badge/status-completed-red)<br>
-![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)<br>
-![License](https://img.shields.io/github/license/yazidmarzuk/portfolio_2.0)<br>
+![Issues](https://img.shields.io/github/issues/yazidmarzuk/medico_ayurveda)<br>
+![License](https://img.shields.io/github/license/yazidmarzuk/medico_ayurveda)<br>
 ![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
 ![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)<br>
 
