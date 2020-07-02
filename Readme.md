@@ -3,9 +3,8 @@
 
  
 ![Stars](https://img.shields.io/github/stars/yazidmarzuk/portfolio_2.0)<br>
-![Forks](https://img.shields.io/github/forks/yazidmarzuk/portfolio_2.0)<br>
 ![Status](https://img.shields.io/badge/status-completed-red)<br>
-![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)
+![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)<br>
 ![License](https://img.shields.io/github/license/yazidmarzuk/portfolio_2.0)<br>
 ![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
 ![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)<br>
