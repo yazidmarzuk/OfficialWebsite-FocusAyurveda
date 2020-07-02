@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: rgb(235, 192, 128);
+  background: rgb(255, 255, 255);
 }
 
 #preloader:before {
