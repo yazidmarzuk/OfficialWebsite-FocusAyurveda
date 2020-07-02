@@ -5,17 +5,17 @@
 ![Issues](https://img.shields.io/github/issues/bgrgv/toruDoc)
 ![Stars](https://img.shields.io/github/stars/bgrgv/toruDoc)
 ![License](https://img.shields.io/github/license/bgrgv/toruDoc)
-![Collaborators](https://img.shields.io/badge/collaborators-4-red)
+![Collaborators](https://img.shields.io/badge/collaborators-2-red)
 ![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)
 
 
-<h1 align="center">
+<h1 align="">
 Focus Ayurvedic Solution
 </h1>
-<p align="center">
+<p align="">
 The first iteration of <a href="https://srmiic.com" target="_blank">focusayurveda.com</a> crafted with &hearts; by Marzuk.
 </p>
-<p align="center">
+<p align="">
     <img src="https://img.shields.io/badge/author-Marzuk-orange" alt="author Marzuk."/>
 </p>
 <!-- 
