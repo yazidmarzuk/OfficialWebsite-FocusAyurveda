@@ -8,7 +8,6 @@
 ![Issues](https://img.shields.io/github/issues/yazidmarzuk/medico_ayurveda)<br>
 ![License](https://img.shields.io/github/license/yazidmarzuk/medico_ayurveda)<br>
 ![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
-![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)<br>
 
 
 <h1 align="">
