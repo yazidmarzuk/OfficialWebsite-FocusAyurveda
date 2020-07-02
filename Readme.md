@@ -13,7 +13,7 @@
 Focus Ayurvedic Solution
 </h1>
 <p align="">
-The first iteration of <a href="https://srmiic.com" target="_blank">focusayurveda.com</a> crafted with &hearts; by Marzuk.
+The first iteration of <a href="" target="_blank">focusayurveda.com</a> crafted with &hearts; by Marzuk.
 </p>
 <p align="">
     <img src="https://img.shields.io/badge/author-Marzuk-orange" alt="author Marzuk."/>
