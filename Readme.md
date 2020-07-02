@@ -11,7 +11,7 @@ SRM Innovation and Incubation Centre
 The first iteration of <a href="https://srmiic.com" target="_blank">focusayurveda.com</a> crafted with &hearts; by Marzuk.
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/author-SRMKZILLA-orange" alt="author SRMKZILLA"/>
+    <img src="https://img.shields.io/badge/author-SRMKZILLA-orange" alt="author Marzuk."/>
 </p>
 
 ## 🚨 Forking this repo
