@@ -3,7 +3,7 @@
 
  
 ![Stars](https://img.shields.io/github/stars/yazidmarzuk/portfolio_2.0)<br>
-![Forks](https://img.shields.io/github/fork/yazidmarzuk/portfolio_2.0)<br>
+![Forks](https://img.shields.io/github/forks/yazidmarzuk/portfolio_2.0)<br>
 ![Status](https://img.shields.io/badge/status-completed-red)<br>
 ![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)<br>
 
