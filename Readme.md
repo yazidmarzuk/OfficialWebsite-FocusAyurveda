@@ -1,5 +1,14 @@
 # Focus Ayurvedic Solution
 
+
+ 
+![Issues](https://img.shields.io/github/issues/bgrgv/toruDoc)
+![Stars](https://img.shields.io/github/stars/bgrgv/toruDoc)
+![License](https://img.shields.io/github/license/bgrgv/toruDoc)
+![Collaborators](https://img.shields.io/badge/collaborators-4-red)
+![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)
+
+
 <h1 align="center">
 Focus Ayurvedic Solution
 </h1>
