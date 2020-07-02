@@ -1,11 +1,13 @@
-# Focus Ayurvedic Solution
-
 
  
 ![Stars](https://img.shields.io/github/stars/yazidmarzuk/medico_ayurveda?style=plastic)<br>
 ![size](https://img.shields.io/github/repo-size/yazidmarzuk/medico_ayurveda)<br>
 ![Status](https://img.shields.io/badge/status-Under_Contruction-red)<br>
 ![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
+
+
+# Focus Ayurvedic Solution
+
 
 
 
