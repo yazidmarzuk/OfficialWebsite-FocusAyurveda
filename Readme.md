@@ -2,11 +2,14 @@
 
 
  
-![Issues](https://img.shields.io/github/issues/bgrgv/toruDoc)
-![Stars](https://img.shields.io/github/stars/bgrgv/toruDoc)
-![License](https://img.shields.io/github/license/bgrgv/toruDoc)
-![Collaborators](https://img.shields.io/badge/collaborators-2-red)
-![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)
+![Stars](https://img.shields.io/github/stars/yazidmarzuk/portfolio_2.0)<br>
+![Forks](https://img.shields.io/github/fork/yazidmarzuk/portfolio_2.0)<br>
+![Status](https://img.shields.io/badge/status-completed-red)<br>
+![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)<br>
+
+![License](https://img.shields.io/github/license/yazidmarzuk/portfolio_2.0)<br>
+![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
+![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)<br>
 
 
 <h1 align="">
