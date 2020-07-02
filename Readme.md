@@ -5,8 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/yazidmarzuk/portfolio_2.0)<br>
 ![Forks](https://img.shields.io/github/forks/yazidmarzuk/portfolio_2.0)<br>
 ![Status](https://img.shields.io/badge/status-completed-red)<br>
-![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)<br>
-
+![Issues](https://img.shields.io/github/issues/yazidmarzuk/portfolio_2.0)
 ![License](https://img.shields.io/github/license/yazidmarzuk/portfolio_2.0)<br>
 ![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
 ![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)<br>
@@ -16,7 +15,6 @@
 Focus Ayurvedic Solution
 </h1>
 <p align="">
-The first iteration of <a href="" target="_blank">focusayurveda.com</a> crafted with &hearts; by Marzuk.
 </p>
 <p align="">
     <img src="https://img.shields.io/badge/author-Marzuk-orange" alt="author Marzuk."/>
