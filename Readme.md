@@ -9,7 +9,11 @@
 # Focus Ayurvedic Solution
 
 
-This is a website build 
+This is a website build for Focus Ayurvedic Solutions.
+
+It is made using HTML, CSS And JavaScript
+
+Feel free to use this code for personal projects. 
 
 <!-- 
 ## 🚨 Forking this repo
